@@ -10,7 +10,6 @@ namespace window001
             Console.Read();
             //002
             Console.WriteLine("Hello World!");
-            
         }
     }
 }
