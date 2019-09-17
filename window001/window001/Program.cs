@@ -14,6 +14,7 @@ namespace window001
             //005
             //nhanh 1 sua
             //nhanh 2 sua
+            //nhanh 2 sua lan 2
         }
     }
 }
