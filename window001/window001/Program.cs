@@ -12,6 +12,7 @@ namespace window001
             Console.WriteLine("Hello World!");
             //004
             //005
+            //nhanh 1 sua
         }
     }
 }
